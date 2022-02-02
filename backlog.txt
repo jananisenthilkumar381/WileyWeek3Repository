@@ -6,3 +6,4 @@ My backlog
 1.5 As a user I want to configure view of my System.
 
 1.6 As an administrator I want to generate reports.
+1.7 As a student I like playing with Git hub.
